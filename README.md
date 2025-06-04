@@ -10,7 +10,7 @@ I'm a Computer and Electrical Engineering student at Rutgers University with a c
 ---
 
 ### 🚀 Featured Projects
-- [SmartChef 🍽️](https://github.com/sarinjet1008/recipe-retrieval-system): AI-powered recipe search with OAuth, custom UI, and API integration.
+- [SmartChef 🍽️](https://github.com/sgongora8/smartchef): AI-powered recipe search with OAuth, custom UI, and API integration.
 - JARVIS Assistant 🎙️: A voice-activated desktop assistant using Python, LLMs, and contextual memory.
 
 
