@@ -1,16 +1,16 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-<!--
-**sgongora8/sgongora8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Steven!
 
-Here are some ideas to get you started:
+I'm a Computer and Electrical Engineering student at Rutgers University with a concentration in **Software Engineering**. I’m passionate about building intelligent applications that solve real-world problems — from AI-powered tools to full-stack web apps.
+
+- 🔭 I’m currently working on **SmartChef**, an AI-powered recipe recommender using React, Node.js, TailwindCSS, and LLMs.
+- 🌱 I’m currently learning **TypeScript**, **Next.js**, and diving deeper into **LLM integration** and **agentic workflows**.
+- 👯 I’m looking to collaborate on **consumer-focused apps**, **AI tools**, or **open-source projects** involving TypeScript or Python.
 
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+- [SmartChef 🍽️](https://github.com/sarinjet1008/recipe-retrieval-system): AI-powered recipe search with OAuth, custom UI, and API integration.
+- JARVIS Assistant 🎙️: A voice-activated desktop assistant using Python, LLMs, and contextual memory.
+
+
